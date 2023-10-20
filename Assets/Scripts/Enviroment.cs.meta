@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8faacfac9285bb94f8b6827be62f7199
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nightSkybox: {fileID: 2100000, guid: 205f9e4bf9d137047ab40026d284f96d, type: 2}
+  - daySkybox: {fileID: 2100000, guid: 85cf0b004bc4a654b9e501efcce47902, type: 2}
+  executionOrder: -200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
